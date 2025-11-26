@@ -1,4 +1,4 @@
-# MixtureOfHorizons
+# Mixture Of Horizons in Action Chunking
 
 Official Release of "Mixture of Horizons in Action Chunking"
 
