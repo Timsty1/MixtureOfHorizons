@@ -37,7 +37,7 @@
 
 * MoH enables **Dynamic Inference**, selecting stable actions through **cross-horizon consensus** for higher efficiency and robustness.
 
-<summary><b>More results on LIBERO</b></summary>
+More results on LIBERO
 <div align="center">
 <img src="figure/libero_main.jpg" width="90%" />
 </div>
