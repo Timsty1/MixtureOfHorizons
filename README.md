@@ -20,7 +20,7 @@
     </tr>
     <tr>
       <td align="center" valign="top">
-        Figure 1: Trade-off between long-term foresight and short-term precision induced by single horizon.
+        Figure 1: Trade-off between long-term foresight and short-term precision induced by single horizon
       </td>
       <td align="center" valign="top">
         Figure 2: Overview of the proposed mixture-of-horizons strategy
