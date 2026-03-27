@@ -106,15 +106,6 @@ Our checkpoints are available at [HuggingFace](https://huggingface.co/Timsty/mix
 **Prerequisites:**
 * Modify `scripts/eval_on_libero.sh` (or `_dynamic.sh`) to point to your `YOUR_PROJ_DIR` and correct checkpoint paths.
 
-### ⚠️ Important: First Run Setup
-
-If you are running the evaluation for the first time in this conda environment, you must initialize the Libero simulator path configuration.
-
-1.  Run the test command manually in your terminal **without** piping to a log file.
-2.  When prompted: `"Do you want to specify a custom path for the dataset folder? (Y/N):"`
-3.  Type **N** and press **Enter**.
-4.  You can then safely interrupt the process (Ctrl+C).
-
 ### Run Evaluation
 
 Once configured, execute the evaluation scripts:
